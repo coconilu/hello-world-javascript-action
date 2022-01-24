@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-javascript-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/coconilu/hello-world-javascript-action.git",
+  "author": "Bayes <bayes0621@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
